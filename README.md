@@ -17,6 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+https://dev.to/bryanjazo/tindog-javascript-4g02
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
