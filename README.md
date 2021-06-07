@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryanjazo&label=Profile%20views&color=0e75b6&style=flat" alt="bryanjazo" /> </p>
 
-https://camo.githubusercontent.com/c0c27100620a7bdcdc4034280a50861f54aab5c113b1d445fee3e2718d17bd90/68747470733a2f2f692e696d6775722e636f6d2f36386d624d42672e676966
 
 - 🌱 I’m currently learning **React**
 
