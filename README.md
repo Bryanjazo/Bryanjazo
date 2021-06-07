@@ -18,6 +18,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+https://dev.to/bryanjazo/what-is-this-21f8
 https://dev.to/bryanjazo/tindog-javascript-4g02<br>
 https://dev.to/bryanjazo/rails-spotify-project-17nh<br>
 https://dev.to/bryanjazo/sinatra-where-coders-are-found-1a2c<br>
