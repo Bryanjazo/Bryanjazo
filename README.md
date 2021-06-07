@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bryanjazo](https://github.com/Bryanjazo)
 
-- 📝 I regularly write articles on [The projects I have built and some methods regarding the language](The projects I have built and some methods regarding the language)
+- 📝 I regularly write articles on my current projects and certain syntax I find Interesting.
 
 - 💬 Ask me about **Ruby, Sinatra, Javascript, Rails, HTML, CSS**
 
