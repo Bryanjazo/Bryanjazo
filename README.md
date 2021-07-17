@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryanjazo&label=Profile%20views&color=0e75b6&style=flat" alt="bryanjazo" /> </p>
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bryanjazo](https://github.com/Bryanjazo)
 
